@@ -23,6 +23,8 @@ using likelihood ratio tests and benchmark model-implied volatility against
 realized volatility.
 
 ## Repository Structure
+
+```
 ├── data/
 │   ├── reit_data_2020.xls          # FTSE/NAREIT monthly REIT index data
 │   └── vol_data_homework.xlsx      # S&P 500, Euro/USD, NYSE Oil & Gas daily prices
@@ -36,6 +38,7 @@ realized volatility.
 │    └── realized_volatility.png
 ├── reit_volatility_forecasting.ipynb
 └── README.md
+```
 
 ## Key Methods
 
