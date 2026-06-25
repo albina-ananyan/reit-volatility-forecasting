@@ -26,8 +26,8 @@ realized volatility.
 
 ```
 ├── data/
-│   ├── reit_data_2020.xls          # FTSE/NAREIT monthly REIT index data
-│   └── vol_data_homework.xlsx      # S&P 500, Euro/USD, NYSE Oil & Gas daily prices
+│    ├── reit_data_2020.xls          # FTSE/NAREIT monthly REIT index data
+│    └── vol_data_homework.xlsx      # S&P 500, Euro/USD, NYSE Oil & Gas daily prices
 ├── figures/
 │    ├── garch11_daily_EuroUSD.png
 │    ├── garch11_daily_OilGas.png
